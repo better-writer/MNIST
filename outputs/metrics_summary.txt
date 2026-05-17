@@ -1,0 +1,31 @@
+MNIST CNN Training Summary
+========================================
+Epochs: 10
+Final Test Accuracy: 98.91%
+Best Test Accuracy: 99.06%
+Final Train Loss: 0.0087
+
+Epoch | Train Loss | Test Acc (%)
+-----------------------------------
+    1 | 0.2116    | 97.89
+    2 | 0.0582    | 98.58
+    3 | 0.0407    | 98.61
+    4 | 0.0321    | 99.06
+    5 | 0.0244    | 98.89
+    6 | 0.0210    | 99.05
+    7 | 0.0154    | 98.93
+    8 | 0.0142    | 98.98
+    9 | 0.0118    | 98.75
+   10 | 0.0087    | 98.91
+
+Per-Class Accuracy:
+  Digit 0: 99.59%
+  Digit 1: 99.74%
+  Digit 2: 99.71%
+  Digit 3: 99.60%
+  Digit 4: 99.59%
+  Digit 5: 97.98%
+  Digit 6: 98.75%
+  Digit 7: 98.83%
+  Digit 8: 95.89%
+  Digit 9: 99.11%
